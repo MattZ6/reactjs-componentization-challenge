@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <img style="border-radius: 6px;" src=".github/images/watch-me.jpg" alt="WatchMe, Tela inicial" title="WatchMe, Tela inicial" />
+  <img style="border-radius: 6px;" src=".github/images/watch-me.jpg" alt="Tela inicial da aplicação WatchMe, apresentando a categoria Ação e seus filmes" title="🎥 Tela inicial da aplicação WatchMe, apresentando a categoria Ação e seus filmes" />
 
-  > <small>WatchMe, Tela inicial</small>
+  > <small>WatchMe, tela inicial</small>
 </div>
 
 ## 🎉 Começando
@@ -51,7 +51,7 @@ E em seguinda, para "rodar" a aplicação, execute:
 yarn dev
 ```
 
-## 🧪 Testes
+## 🧪 Testando
 
 Para "rodar" os testes, execute:
 
