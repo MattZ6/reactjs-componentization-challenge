@@ -1,9 +1,16 @@
 {
   "name": "reactjs-componentization-challenge",
-  "description": "🔥 Código do desafio de componentização para a trilha de React JS — Ignite",
+  "description": "🔥 Código de resolução do desafio de componentização, da trilha de React JS — Ignite",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Matheus Felipe Zanin",
+    "email": "matt_z6@hotmail.com",
+    "url": "https://github.com/MattZ6"
+  },
+  "repository": "https://github.com/MattZ6/reactjs-componentization-challenge",
+  "bugs": "https://github.com/MattZ6/reactjs-componentization-challenge/issues",
   "scripts": {
     "dev": "webpack serve",
     "server": "json-server server.json --port 3333",
