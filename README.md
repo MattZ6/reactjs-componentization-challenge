@@ -51,14 +51,6 @@ E em seguinda, para "rodar" a aplicação, execute:
 yarn dev
 ```
 
-## 🧪 Testando
-
-Para "rodar" os testes, execute:
-
-```bash
-yarn test
-```
-
 ___
 
 <div align="center">
